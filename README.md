@@ -1,6 +1,6 @@
 # Análise de Entregas por Hub
 
-Este repositório apresenta uma análise da distribuição de entregas entre diferentes hubs logísticos, realizada em um caderno Jupyter utilizando ferramentas do ecossistema Python.
+Este repositório apresenta uma análise da distribuição de entregas entre diferentes hubs logísticos, realizada em um caderno Jupyter utilizando ferramentas do ecossistema Python. Esta atividade faz parte do meu curso de analista de dados feito pela EBAC.
 
 ## Insights
 
